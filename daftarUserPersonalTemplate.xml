@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DATAUSER>
+    <ID>000000000000</ID>
+    <NAME>JOHNDOE</NAME>
+    <IC>230130015555</IC>
+    <PHONENUM>6012345678989</PHONENUM>
+    <EMAIL>jd@mail.com</EMAIL>
+    <PWD>xxxxxxxx</PWD>
+    <CONFIRMPWD>xxxxxxxx</CONFIRMPWD>
+    <GENDER>male</GENDER>
+    <CATEGORY>Student</CATEGORY>
+    <ALERTSTATUS STATUS="YES" MESEJ="PLEASE ......... ">NO</ALERTSTATUS>
+</DATAUSER>
