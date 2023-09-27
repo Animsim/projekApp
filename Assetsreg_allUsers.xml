@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<User_List>
+  <INFO>
+    <APPINFO NAME="MYAPP" COPYRIGHT="@2023" GENRE="MONITORING_SYS" YEARPRODUCED="2023">
+    </APPINFO>
+    <APPVERSION VER="1.00" VERUPDATE="24SEPT2023" PERSON="ANIM">
+    </APPVERSION>
+    <USERINFO CATEGORY="STUDENT" DATAUPDATE="24SPET2023" USERTOTAL="50">
+    </USERINFO>
+    <CREDITINFO CREDIT1="" CREDIT2="" CREDIT3="" CREDIT4="" CREDIT5="">
+    </CREDITINFO>
+  </INFO>
+  <BLOCKCHAIN>
+    <ORG NAME="" ID="" ROLE="" ADMIN="" CONTACT="" EMAIL="" DATEJOINT="" APICODE="">
+    </ORG>
+  </BLOCKCHAIN>
+  <USERS>
+    <USER ID="101010101010" NAME="AnimSim" IC="230428011111" PHONENUM="60123654789" EMAIL="anim@mail.com" PWD="xxxxxxxx" CONFPWD="xxxxxxxx" GENDER="Male" />
+    <USER ID="" NAME="" IC="" PHONENUM="" EMAIL="" PWD="" CONFPWD="" GENDER="" />
+    <USER ID="amna" NAME="amna" IC="sa" PHONENUM="sas" EMAIL="sas" PWD="asas" CONFPWD="asa" GENDER="sas" />
+    <USER ID="wqwqw" NAME="ww" IC="ww" PHONENUM="ww" EMAIL="ww" PWD="ww" CONFPWD="ww" GENDER="ww" />
+    <USER ID="mano" NAME="manos" IC="123365478962" PHONENUM="60123655478965" EMAIL="wqwqw@mail.com" PWD="xxxxxxx" CONFPWD="xxxxxxx" GENDER="male" />
+    <USER ID="alm" NAME="aaa" IC="aaa" PHONENUM="aaa" EMAIL="aaa" PWD="aaa" CONFPWD="aaa" GENDER="aaa" />
+  </USERS>
+</User_List>
